@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## - 🔭 I’m currently working on working on deploying applications with heroku
+## 
+- 🔭 I’m currently working on working on deploying applications with heroku
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on any projects :)
 - 📫 How to reach me: emmavazquez13@outlook.com
